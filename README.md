@@ -1,4 +1,4 @@
-# It is not my work but I used it and it worked great. When the original "modifier" is no longer hosting it on github so I am.
+# It is not my work but I used it and it worked great. The original "modifier" was no longer hosting it on github so I am.
 
 # Install Instructions:
  - I compiled the firmware with Visual Studio Code, which created a hex file
